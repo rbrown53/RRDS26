@@ -3,4 +3,3 @@ This repo has resources for the Red Rock Data Science 2026 workshop that takes p
 
 The slides and activities are both included here.
 
-Test git
