@@ -12,4 +12,4 @@ Tentative schedule:
 | 3:15-3:45pm | Slides 1-40 |
 | 3:45-4:05pm | Activity 1 |
 | 4:05-4:25pm | Slides 41-70 |
-| 4:25am-5:15pm | Activities 2 & 3 |
+| 4:25-5:15pm | Activities 2 & 3 |
