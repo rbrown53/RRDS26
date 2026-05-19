@@ -43,13 +43,9 @@ include-in-header:
     }
 urlcolor: blue
 # linkcolor: blue
+execute:
+  echo: true
 ---
-
-```{r}
-#| label: setup
-#| include: false
-knitr::opts_chunk$set(echo = TRUE, fig.align="center")
-```
 
 \tableofcontents
 
@@ -837,7 +833,7 @@ More information about Quarto websites can be found here: [https://quarto.org/do
 
 ## Acknowledgements
 
-These slides were adapted from slides created by W. Evan Johnson and some of the Git images are from [_Introduction to Data Science: Data Analysis and Prediction Algorithms with R_](https://rafalab.dfci.harvard.edu/dsbook) by Rafael A. Irizarry.
+These slides were adapted from slides created by Dr. W. Evan Johnson and some of the Git images are from [_Introduction to Data Science: Data Analysis and Prediction Algorithms with R_](https://rafalab.dfci.harvard.edu/dsbook) by Rafael A. Irizarry.
 
 ## Session Info
 \tiny
