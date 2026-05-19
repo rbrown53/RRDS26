@@ -1,7 +1,7 @@
 # Red Rock Data Science Workshop 2 (May 2026)
 ## A Practical Introduction to Quarto, GitHub, and Personal Websites
 
-This repo has resources for the Red Rock Data Science 2026 workshop that takes place May 18-21, 2026.
+This repo has resources for the Red Rock Data Science 2026 Workshop 2 that takes place May 19, 2026.
 
 The slides and activities are included here.
 
